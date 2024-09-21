@@ -15,13 +15,7 @@ Aprendi sobre os três principais modelos de serviço:
 - **PaaS (Plataforma como Serviço)**: entrega uma plataforma completa para desenvolvimento, sem gerenciar a infraestrutura.
 - **SaaS (Software como Serviço)**: oferece software via internet, sem necessidade de instalação local.
 
-## 3. Gerenciamento de Recursos no Azure
-Explorei o portal do Azure e aprendi a criar e gerenciar recursos como máquinas virtuais, redes, e bancos de dados. Também aprendi a utilizar o **Azure Resource Manager (ARM)** para gerenciar recursos de forma eficiente.
-
-## 4. Segurança e Governança
-Aprendi sobre os mecanismos de segurança do Azure, incluindo controle de acesso baseado em função (RBAC) e políticas de governança para gerenciar a conformidade com regulamentos e boas práticas.
-
-## 5. Modelo de Preços Baseado em Consumo
+## 3. Modelo de Preços Baseado em Consumo
 Compreendi como o modelo de preços baseado em consumo permite pagar apenas pelos recursos que utilizamos, oferecendo melhor controle de custos e previsibilidade.
 
 ## Conclusão
